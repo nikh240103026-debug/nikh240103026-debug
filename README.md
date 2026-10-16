@@ -8,8 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Data+Science;Making+Quantum+Computing+Accessible" alt="Typing animation" />
 
-[![QuantumLearn AI](https://img.shields.io/badge/QuantumLearn_AI-Visit_Project-7C3AED?style=for-the-badge&logo=atom&logoColor=white)](https://quantumlearn.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/nikh240103026-debug)
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-app-neon-two.vercel.app/)
+[![QuantumLearn Website](https://img.shields.io/badge/QuantumLearn_AI-Live_Website-7C3AED?style=for-the-badge&logo=atom&logoColor=white)](https://quantumlearnai.vercel.app/dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/nikh240103026-debug)
 
 </div>
 
@@ -17,18 +18,22 @@
 
 ### Featured Project — QuantumLearn AI
 
-<a href="https://quantumlearn.ai"><img align="right" width="110" src="https://img.shields.io/badge/Quantum-Computing-7C3AED?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum computing" /></a>
-
 **An AI-powered interactive quantum computing learning platform.**
+
+A learning environment designed to make quantum computing more accessible through interactive tools and AI-powered guidance.
 
 - AI Tutor with contextual learning assistance
 - Interactive quantum circuits and simulation
 - Structured lessons, practice, and progress tracking
-- Designed to make quantum computing more accessible
+- Personalized learning experience
 
 **Tech stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase · Google Gemini AI · Python
 
-[Explore QuantumLearn AI](https://quantumlearn.ai) | [View Source Code](https://github.com/nikh240103026-debug/quantumlearn-ai)
+<div align="center">
+
+[Live Website](https://quantumlearnai.vercel.app/dashboard) · [GitHub Repository](https://github.com/nikh240103026-debug/quantumlearn-ai) · [Personal Portfolio](https://portfolio-app-neon-two.vercel.app/)
+
+</div>
 
 ---
 
