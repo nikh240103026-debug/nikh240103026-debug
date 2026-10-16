@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hey, I'm Nikhil Raj 
+# Nikhil Raj
 
 ### AI & Data Science Student | AI/ML Developer | Tech Builder
 
@@ -8,35 +8,35 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Data+Science;Making+Quantum+Computing+Accessible" alt="Typing animation" />
 
-[![Portfolio](https://img.shields.io/badge/QuantumLearn_AI-Visit_Project-7C3AED?style=for-the-badge&logo=atom&logoColor=white)]([https://quantumlearn.ai](https://github.com/nikh240103026-debug/quantumlearn-ai))
+[![QuantumLearn AI](https://img.shields.io/badge/QuantumLearn_AI-Visit_Project-7C3AED?style=for-the-badge&logo=atom&logoColor=white)](https://quantumlearn.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/nikh240103026-debug)
 
 </div>
 
 ---
 
-### 🚀 Featured Project — QuantumLearn AI
+### Featured Project — QuantumLearn AI
 
-<a href="[https://quantumlearn.ai](https://github.com/nikh240103026-debug/quantumlearn-ai)"><img align="right" width="110" src="https://img.shields.io/badge/Quantum-Computing-7C3AED?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum computing" /></a>
+<a href="https://quantumlearn.ai"><img align="right" width="110" src="https://img.shields.io/badge/Quantum-Computing-7C3AED?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum computing" /></a>
 
 **An AI-powered interactive quantum computing learning platform.**
 
-- 🤖 AI Tutor with contextual learning assistance
-- ⚛️ Interactive quantum circuits and simulation
-- 📚 Structured lessons, practice, and progress tracking
-- 🌐 Built to make quantum computing more accessible
+- AI Tutor with contextual learning assistance
+- Interactive quantum circuits and simulation
+- Structured lessons, practice, and progress tracking
+- Designed to make quantum computing more accessible
 
 **Tech stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase · Google Gemini AI · Python
 
-🔗 **[Explore QuantumLearn AI →]([https://quantumlearn.ai](https://github.com/nikh240103026-debug/quantumlearn-ai))**
+[Explore QuantumLearn AI](https://quantumlearn.ai) | [View Source Code](https://github.com/nikh240103026-debug/quantumlearn-ai)
 
 ---
 
-### 🛠️ Tech & Interests
+### Tech Stack & Interests
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -46,10 +46,10 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nikh240103026@-debug&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikh240103026@debug&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nikh240103026-debug&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikh240103026-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
-### 💡 Learn · Build · Experiment · Repeat
+### Learn · Build · Experiment · Repeat
 
 *Always curious. Always building.*
 
