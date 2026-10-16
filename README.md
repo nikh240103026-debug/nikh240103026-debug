@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hey, I'm Nikhil Raj 👋
+# Hey, I'm Nikhil Raj 
 
 ### AI & Data Science Student | AI/ML Developer | Tech Builder
 
@@ -17,7 +17,7 @@
 
 ### 🚀 Featured Project — QuantumLearn AI
 
-<a href="https://quantumlearn.ai"><img align="right" width="110" src="https://img.shields.io/badge/Quantum-Computing-7C3AED?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum computing" /></a>
+<a href="[https://quantumlearn.ai](https://github.com/nikh240103026-debug/quantumlearn-ai)"><img align="right" width="110" src="https://img.shields.io/badge/Quantum-Computing-7C3AED?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum computing" /></a>
 
 **An AI-powered interactive quantum computing learning platform.**
 
@@ -28,7 +28,7 @@
 
 **Tech stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase · Google Gemini AI · Python
 
-🔗 **[Explore QuantumLearn AI →](https://quantumlearn.ai)**
+🔗 **[Explore QuantumLearn AI →]([https://quantumlearn.ai](https://github.com/nikh240103026-debug/quantumlearn-ai))**
 
 ---
 
