@@ -163,6 +163,8 @@ An interactive learning lab for **computer networks**, part of my series of AI-a
 
 **Creative**<br/>
 <img src="https://skillicons.dev/icons?i=pr,ae,figma&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 
 </div>
 
