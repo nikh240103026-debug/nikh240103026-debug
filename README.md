@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Nikhil%20Raj&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full-Stack%20AI%20Products%20%E2%80%A2%20Team%20Lead&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Nikhil%20Raj&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20and%20Data%20Science%20%7C%20Full-Stack%20AI%20Products%20%7C%20Team%20Lead&descAlignY=58&descSize=18" alt="Nikhil Raj" />
 
 <div align="center">
 
